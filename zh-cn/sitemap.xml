@@ -79,20 +79,6 @@
                 href="https://YCstudent.github.io/hugo-dev/archives/"
                 />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/categories/test/</loc>
-  </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://YCstudent.github.io/hugo-dev/en/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/%E5%85%B3%E4%BA%8E/"
-                />
-  </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/%E9%93%BE%E6%8E%A5/</loc>
     <xhtml:link
                 rel="alternate"

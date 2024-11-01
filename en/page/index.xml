@@ -16,15 +16,6 @@
         <description></description>
         </item>
         <item>
-        <title>About</title>
-        <link>https://YCstudent.github.io/hugo-dev/en/about/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://YCstudent.github.io/hugo-dev/en/about/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
-        </item>
-        <item>
         <title>Links</title>
         <link>https://YCstudent.github.io/hugo-dev/en/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
