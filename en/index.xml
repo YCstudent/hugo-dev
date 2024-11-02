@@ -16,39 +16,73 @@
         <description></description>
         </item>
         <item>
+        <title>About me</title>
+        <link>https://YCstudent.github.io/hugo-dev/en/about/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://YCstudent.github.io/hugo-dev/en/about/</guid>
+        <description>&lt;h2 id=&#34;personal-profile&#34;&gt;Personal Profile
+&lt;/h2&gt;&lt;h3 id=&#34;basic-information&#34;&gt;Basic Information
+&lt;/h3&gt;&lt;p&gt;Name：Jinheng Jiang&lt;/p&gt;
+&lt;p&gt;Gender: Male&lt;/p&gt;
+&lt;p&gt;Currently studying: Zhengzhou University, majoring in Communication Engineering (expecting to transfer to Computer Science and Technology)&lt;/p&gt;
+&lt;h3 id=&#34;interests-and-expected-career-paths&#34;&gt;Interests and expected career paths
+&lt;/h3&gt;&lt;p&gt;In terms of competitions, I am very interested in algorithmic competitions such as ACM-ICPC, and I am expected to participate in them during my college years in order to win awards.&lt;/p&gt;
+&lt;p&gt;As for my future development direction, I would like to work on machine learning and deep learning, but I&amp;rsquo;m not sure, it&amp;rsquo;s up to me.&lt;/p&gt;
+&lt;h3 id=&#34;hobbies&#34;&gt;Hobbies
+&lt;/h3&gt;&lt;p&gt;I don&amp;rsquo;t have many hobbies, mainly playing games. I play a lot of soul, arpg, act, roguelite games, and sandbox games such as MC, which I also like to play.&lt;/p&gt;
+&lt;p&gt;I also like to play sandbox games such as MC. Here is a list of a few games that I really like:&lt;/p&gt;
+&lt;p&gt;Bloodborne&lt;/p&gt;
+&lt;p&gt;Dark Souls 3&lt;/p&gt;
+&lt;p&gt;Sekiro: Shadows Die Twice&lt;/p&gt;
+&lt;p&gt;Red Dead Redemption 2&lt;/p&gt;
+&lt;p&gt;Black Myth: Wukong&lt;/p&gt;
+&lt;p&gt;Dead Cells&lt;/p&gt;
+&lt;p&gt;If you want to exchange games with me, you can contact me:&lt;a class=&#34;link&#34; href=&#34;https://steamcommunity.com/profiles/76561198365257706/&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;https://steamcommunity.com/profiles/76561198365257706/&lt;/a&gt;&lt;a class=&#34;link&#34; href=&#34;https://id.sonyentertainmentnetwork.com/id/management_ca/?gated=true&amp;amp;pr_referer=cam&amp;amp;ui=pr&amp;amp;entry=psn_profile&amp;amp;cid=6fa0f444-d26c-4c15-8f27-c3052987a3d0#/p/psn_profile/list?state=cam_432fcfef31261eeb2e21b4bdf4c938ec&amp;amp;cid=6fa0f444-d26c-4c15-8f27-c3052987a3d0&amp;amp;entry=psn_profile&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt; And PS platforms&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;the-rest-of-the-contact-information&#34;&gt;The rest of the contact information
+&lt;/h3&gt;&lt;p&gt;QQ: 2916321268&lt;/p&gt;
+&lt;p&gt;WeChat：13613763761&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:2917321268@qq.com&#34; &gt;QQ mailbox:2917321268@qq.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:q29173212268@outlook.com&#34; &gt;Outlook maibox:q29173212268@outlook.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:jjhx330jinheng@gmail.com&#34; &gt;Gmail mailbox:jjhx330jinheng@gmail.com&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Announcement</title>
+        <link>https://YCstudent.github.io/hugo-dev/en/announcement/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://YCstudent.github.io/hugo-dev/en/announcement/</guid>
+        <description>&lt;h2 id=&#34;main-content-of-this-website&#34;&gt;Main content of this website
+&lt;/h2&gt;&lt;p&gt;This website mainly shares hardcore content related to daily learning and some specialized knowledge, and exchanges knowledge and insights with everyone.&lt;/p&gt;
+&lt;h2 id=&#34;some-functions-of-this-website&#34;&gt;Some functions of this website
+&lt;/h2&gt;&lt;p&gt;Basic functions: searching, categorizing, archiving&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Some special features: Kanban (supports dressing, switching characters, mouse interaction&amp;hellip;) , interactive dynamic backgrounds.&lt;/p&gt;
+&lt;p&gt;New features that may come later: mouse cursor style change, font change&amp;hellip;&lt;/p&gt;
+&lt;h2 id=&#34;notes&#34;&gt;Notes
+&lt;/h2&gt;&lt;p&gt;Chinese users may not be able to load Kanban properly after entering the site, you may need to open a VPN.&lt;/p&gt;
+&lt;h2 id=&#34;finally&#34;&gt;Finally
+&lt;/h2&gt;&lt;p&gt;Welcome to my website!!!&lt;/p&gt;
+</description>
+        </item>
+        <item>
         <title>Links</title>
         <link>https://YCstudent.github.io/hugo-dev/en/links/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://YCstudent.github.io/hugo-dev/en/links/</guid>
-        <description>&lt;p&gt;To use this feature, add &lt;code&gt;links&lt;/code&gt; section to frontmatter.&lt;/p&gt;
-&lt;p&gt;This page&amp;rsquo;s frontmatter:&lt;/p&gt;
-&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
-&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;4
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;5
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;6
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;7
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;8
-&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;9
-&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
-&lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-yaml&#34; data-lang=&#34;yaml&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;nt&#34;&gt;links&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;GitHub is the world&amp;#39;s largest software development platform.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.com&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;  &lt;/span&gt;- &lt;span class=&#34;nt&#34;&gt;title&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;description&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;website&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;https://www.typescriptlang.org&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;    &lt;/span&gt;&lt;span class=&#34;nt&#34;&gt;image&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;&lt;span class=&#34;w&#34;&gt; &lt;/span&gt;&lt;span class=&#34;l&#34;&gt;ts-logo-128.jpg&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
-&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
-&lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;&lt;code&gt;image&lt;/code&gt; field accepts both local and external images.&lt;/p&gt;
+        <description>&lt;p&gt;Here are some useful links！！！！&lt;/p&gt;
 </description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://YCstudent.github.io/hugo-dev/en/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://YCstudent.github.io/hugo-dev/en/search/</guid>
+        <description></description>
         </item>
         
     </channel>

@@ -41,6 +41,30 @@
                 href="https://YCstudent.github.io/hugo-dev/en/page/"
                 />
   </url><url>
+    <loc>https://YCstudent.github.io/hugo-dev/en/about/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://YCstudent.github.io/hugo-dev/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://YCstudent.github.io/hugo-dev/en/about/"
+                />
+  </url><url>
+    <loc>https://YCstudent.github.io/hugo-dev/en/announcement/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://YCstudent.github.io/hugo-dev/announcement/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://YCstudent.github.io/hugo-dev/en/announcement/"
+                />
+  </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/en/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -63,6 +87,18 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://YCstudent.github.io/hugo-dev/en/links/"
+                />
+  </url><url>
+    <loc>https://YCstudent.github.io/hugo-dev/en/search/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://YCstudent.github.io/hugo-dev/search/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://YCstudent.github.io/hugo-dev/en/search/"
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/en/tags/</loc>
