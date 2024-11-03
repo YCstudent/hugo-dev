@@ -2,21 +2,8 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://YCstudent.github.io/hugo-dev/en/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://YCstudent.github.io/hugo-dev/en/"
-                />
-  </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/en/archives/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-01T23:01:57+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -29,7 +16,7 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/en/page/</loc>
-    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
+    <lastmod>2024-11-04T01:06:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -41,7 +28,21 @@
                 href="https://YCstudent.github.io/hugo-dev/en/page/"
                 />
   </url><url>
+    <loc>https://YCstudent.github.io/hugo-dev/en/</loc>
+    <lastmod>2024-11-02T01:10:53+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://YCstudent.github.io/hugo-dev/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://YCstudent.github.io/hugo-dev/en/"
+                />
+  </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/en/about/</loc>
+    <lastmod>2024-11-04T01:06:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -54,6 +55,7 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/en/announcement/</loc>
+    <lastmod>2024-11-04T01:06:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -78,6 +80,7 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/en/links/</loc>
+    <lastmod>2024-11-02T09:25:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -90,6 +93,7 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/en/search/</loc>
+    <lastmod>2024-11-02T09:25:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
