@@ -166,7 +166,9 @@
     },
     {
       "selector": ".copyCodeButton",
-      "text": ["代码可以直接点击复制哟。"]
+      "text": [
+        "代码可以直接点击复制哟。You can directly click to copy the code."
+      ]
     },
     {
       "selector": ".highlight .table-container, .gist",
@@ -174,13 +176,16 @@
     },
     {
       "selector": "a[href^='mailto']",
-      "text": ["邮件我会及时回复的！", "点击就可以发送邮件啦～"]
+      "text": [
+        "邮件我会及时回复的！I will reply to the email promptly!",
+        "点击就可以发送邮件啦～Click to send email~"
+      ]
     },
     {
       "selector": "a[href^='/tags/']",
       "text": [
-        "要去看看 <span>{text}</span> 标签么？",
-        "点它可以查看此标签下的所有文章哟！"
+        "要去看看 <span>{text}</span> 标签么？Want to look at the <span>{text}</span> tag?",
+        "点它可以查看此标签下的所有文章哟！Click it to view all articles under this tag!"
       ]
     },
     {
@@ -209,9 +214,9 @@
     {
       "selector": ".container a[href^='http'], .nav-link .nav-text",
       "text": [
-        "要去看看 <span>{text}</span> 么？",
-        "去 <span>{text}</span> 逛逛吧。",
-        "到 <span>{text}</span> 看看吧。"
+        "要去看看 <span>{text}</span> 么？Want to check out <span>{text}</span>?",
+        "去 <span>{text}</span> 逛逛吧。Check out <span>{text}</span>.",
+        "到 <span>{text}</span> 看看吧。Go to <span>{text}</span> and take a look."
       ]
     },
     {
