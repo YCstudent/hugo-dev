@@ -10,7 +10,7 @@
 <meta property='og:description' content="郑州大学通信工程在读，准acmer">
 <meta property='og:url' content='https://YCstudent.github.io/hugo-dev/zh-cn/post/'>
 <meta property='og:site_name' content='JHCx330-蒋金恒'>
-<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2024-11-04T14:54:37&#43;00:00 '/>
+<meta property='og:type' content='website'><meta property='og:updated_time' content=' 2024-11-04T18:47:02&#43;00:00 '/>
 <meta name="twitter:title" content="Posts">
 <meta name="twitter:description" content="郑州大学通信工程在读，准acmer"><link rel="alternate" type="application/rss&#43;xml" href="https://YCstudent.github.io/hugo-dev/zh-cn/post/index.xml">
     <link rel="shortcut icon" href="/favicon.ico" />
@@ -572,6 +572,96 @@ function initWaifuMouseEvent() {
     --code-font-family: '字体名';
   }
 </style>
+
+<style>
+   
+  #gitalk-container .gt-avatar img {
+      width: 32px;  
+      height: 32px;  
+  }
+
+   
+  #gitalk-container .gt-header-avatar img {
+      width: 20px;  
+      height: 20px;  
+  }
+
+   
+  #gitalk-container {
+      position: fixed;  
+      bottom: 10px;  
+      left: 20px;  
+      max-width: 600px;  
+      margin: 0;  
+      z-index: 1000;  
+      background: rgba(255, 255, 255, 0.9);  
+      border-radius: 8px;  
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);  
+      display: none;  
+  }
+
+   
+  #gitalk-toggle {
+      position: fixed;
+      bottom: 10px;  
+      left: 20px;  
+      background: rgba(255, 255, 255, 0.9);
+      border: 1px solid #ccc;
+      border-radius: 8px;
+      padding: 5px 10px;
+      cursor: pointer;
+      z-index: 1001;  
+  }
+</style>
+
+<div id="gitalk-toggle">展开评论</div>
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<script>
+  var gitalk = new Gitalk({
+    clientID: '',
+    clientSecret: '',
+    repo: '',
+    owner: '',
+    admin: "null",
+    id: location.pathname,
+    distractionFreeMode:  null 
+  });
+
+  
+  gitalk.render('gitalk-container');
+
+  
+  document.getElementById('gitalk-toggle').onclick = function() {
+    var container = document.getElementById('gitalk-container');
+    if (container.style.display === 'none') {
+      container.style.display = 'block'; 
+      this.innerText = '收起评论'; 
+    } else {
+      container.style.display = 'none'; 
+      this.innerText = '展开评论'; 
+    }
+  };
+</script>
+
+
+<div id="gitalk-container"></div>
+<link rel="stylesheet" href="https://unpkg.com/gitalk/dist/gitalk.css">
+<script src="https://unpkg.com/gitalk/dist/gitalk.min.js"></script>
+<script>
+  var gitalk = new Gitalk({
+    clientID: '',
+    clientSecret: '',
+    repo: '',
+    owner: '',
+    admin: "null",
+    id: location.pathname,
+    distractionFreeMode:  null 
+  });
+  gitalk.render('gitalk-container');
+</script>
+
 
     </body>
 </html>
