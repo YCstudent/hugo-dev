@@ -2,8 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://YCstudent.github.io/hugo-dev/</loc>
+    <lastmod>2024-11-04T15:40:39+08:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="https://YCstudent.github.io/hugo-dev/zh-cn/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://YCstudent.github.io/hugo-dev/"
+                />
+  </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/categories/</loc>
-    <lastmod>2024-11-05T03:08:29+08:00</lastmod>
+    <lastmod>2024-11-04T15:40:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -16,10 +29,10 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/categories/english/</loc>
-    <lastmod>2024-11-05T03:08:29+08:00</lastmod>
+    <lastmod>2024-11-04T15:40:39+08:00</lastmod>
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/tags/ets/</loc>
-    <lastmod>2024-11-05T03:08:29+08:00</lastmod>
+    <lastmod>2024-11-04T15:40:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -32,7 +45,7 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/p/how-to-do-ets-reading-test/</loc>
-    <lastmod>2024-11-05T03:08:29+08:00</lastmod>
+    <lastmod>2024-11-04T15:40:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -45,7 +58,7 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/post/</loc>
-    <lastmod>2024-11-05T03:08:29+08:00</lastmod>
+    <lastmod>2024-11-04T15:40:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -58,7 +71,7 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/tags/</loc>
-    <lastmod>2024-11-05T03:08:29+08:00</lastmod>
+    <lastmod>2024-11-04T15:40:39+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -71,10 +84,10 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/categories/tips-for-solving-problems/</loc>
-    <lastmod>2024-11-05T03:08:29+08:00</lastmod>
+    <lastmod>2024-11-04T15:40:39+08:00</lastmod>
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/archives/</loc>
-    <lastmod>2024-11-01T23:01:57+08:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -87,7 +100,7 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/page/</loc>
-    <lastmod>2024-11-04T01:06:46+08:00</lastmod>
+    <lastmod>2019-05-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -99,21 +112,7 @@
                 href="https://YCstudent.github.io/hugo-dev/page/"
                 />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/</loc>
-    <lastmod>2024-11-02T01:10:53+08:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://YCstudent.github.io/hugo-dev/"
-                />
-  </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/about/</loc>
-    <lastmod>2024-11-04T01:06:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -126,7 +125,6 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/announcement/</loc>
-    <lastmod>2024-11-04T01:06:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -139,7 +137,6 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/links/</loc>
-    <lastmod>2024-11-02T09:25:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
@@ -152,7 +149,6 @@
                 />
   </url><url>
     <loc>https://YCstudent.github.io/hugo-dev/search/</loc>
-    <lastmod>2024-11-02T09:25:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
