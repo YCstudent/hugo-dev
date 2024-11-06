@@ -10,7 +10,7 @@
 <meta property='og:description' content="这里将介绍这个博客网站的主要内容，和以后的更新计划">
 <meta property='og:url' content='https://YCstudent.github.io/hugo-dev/zh-cn/p/%E7%BB%88%E4%BA%8E%E5%BC%80%E5%A7%8B%E4%BA%86%E8%BF%99%E6%98%AF%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/'>
 <meta property='og:site_name' content='JHCx330-蒋金恒'>
-<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='第一篇博客' /><meta property='article:published_time' content='2024-11-01T23:31:40&#43;08:00'/><meta property='article:modified_time' content='2024-11-05T16:33:37&#43;00:00'/>
+<meta property='og:type' content='article'><meta property='article:section' content='Post' /><meta property='article:tag' content='第一篇博客' /><meta property='article:published_time' content='2024-11-01T23:31:40&#43;08:00'/><meta property='article:modified_time' content='2024-11-06T03:52:40&#43;00:00'/>
 <meta name="twitter:title" content="终于开始了，这是我的第一个博客">
 <meta name="twitter:description" content="这里将介绍这个博客网站的主要内容，和以后的更新计划">
     <link rel="shortcut icon" href="/favicon.ico" />
@@ -370,7 +370,7 @@
 
 
                 <time>
-                    Nov 05, 2024 16:33 UTC
+                    Nov 06, 2024 03:52 UTC
                 </time>
             </div>
             <div>
@@ -426,7 +426,7 @@
 
 
         <span>
-            最后更新于 Nov 05, 2024 16:33 UTC
+            最后更新于 Nov 06, 2024 03:52 UTC
         </span>
     </section></footer>
 
@@ -465,24 +465,57 @@
      
     
         
-        <div id="comments">
-          <script src="https://giscus.app/client.js"
-                  data-repo="YCstudent/comment_base"
-                  data-repo-id="R_kgDONKYnnw"
-                  data-category="Announcements"
-                  data-category-id="DIC_kwDONKYnn84Cj_s9"
-                  data-mapping="pathname"
-                  data-strict="0"
-                  data-reactions-enabled="1"
-                  data-emit-metadata="0"
-                  data-input-position="top"
-                  data-theme="light"
-                  data-lang="en"
-                  crossorigin="anonymous"
-                  async>
-          </script>
-        </div>
-        
+    <script
+    src="https://giscus.app/client.js"
+    data-repo="YCstudent/comment_base"
+    data-repo-id="R_kgDONKYnnw"
+    data-category="Announcements"
+    data-category-id="DIC_kwDONKYnn84Cj_s9"
+    data-mapping="pathname"
+    data-strict="0"
+    data-reactions-enabled="1"
+    data-emit-metadata="0"
+    data-input-position="top"
+    data-theme="light"
+    data-lang="en"
+    data-loading=""
+    crossorigin="anonymous"
+    async
+></script>
+<script>
+    function setGiscusTheme(theme) {
+        let giscus = document.querySelector("iframe.giscus-frame");
+        if (giscus) {
+            giscus.contentWindow.postMessage(
+                {
+                    giscus: {
+                        setConfig: {
+                            theme: theme,
+                        },
+                    },
+                },
+                "https://giscus.app"
+            );
+        }
+    }
+
+    (function () {
+        addEventListener("message", (e) => {
+            if (event.origin !== "https://giscus.app") return;
+            handler();
+        });
+        window.addEventListener("onColorSchemeChange", handler);
+
+        function handler() {
+            if (document.documentElement.dataset.scheme === "light") {
+                setGiscusTheme('light');
+            } else {
+                setGiscusTheme('dark_dimmed');
+            }
+        }
+    })();
+</script>
+
     
 
     <footer class="site-footer">
