@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Categories on JHCx330-Jason</title>
+        <link>https://YCstudent.github.io/hugo-dev/en/categories/</link>
+        <description>Recent content in Categories on JHCx330-Jason</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en</language>
+        <copyright>JHCx330</copyright>
+        <lastBuildDate>Thu, 07 Nov 2024 23:10:11 +0800</lastBuildDate><atom:link href="https://YCstudent.github.io/hugo-dev/en/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>English</title>
+        <link>https://YCstudent.github.io/hugo-dev/en/categories/english/</link>
+        <pubDate>Mon, 04 Nov 2024 15:40:39 +0800</pubDate>
+        
+        <guid>https://YCstudent.github.io/hugo-dev/en/categories/english/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Tips for Solving Problems</title>
+        <link>https://YCstudent.github.io/hugo-dev/en/categories/tips-for-solving-problems/</link>
+        <pubDate>Mon, 04 Nov 2024 15:40:39 +0800</pubDate>
+        
+        <guid>https://YCstudent.github.io/hugo-dev/en/categories/tips-for-solving-problems/</guid>
+        <description></description>
+        </item>
+        
+    </channel>
+</rss>

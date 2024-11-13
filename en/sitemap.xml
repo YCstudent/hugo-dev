@@ -2,166 +2,166 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://YCstudent.github.io/hugo-dev/categories/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/categories/</loc>
     <lastmod>2024-11-07T23:10:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://YCstudent.github.io/hugo-dev/categories/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://YCstudent.github.io/hugo-dev/en/categories/"
+                />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/categories/english/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/categories/english/</loc>
     <lastmod>2024-11-07T23:10:11+08:00</lastmod>
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/tags/ets/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/tags/ets/</loc>
     <lastmod>2024-11-07T23:10:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/tags/ets/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://YCstudent.github.io/hugo-dev/tags/ets/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://YCstudent.github.io/hugo-dev/en/tags/ets/"
+                />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/p/how-to-do-ets-reading-test/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/p/how-to-do-ets-reading-test/</loc>
     <lastmod>2024-11-07T23:10:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/p/how-to-do-ets-reading-test/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://YCstudent.github.io/hugo-dev/p/how-to-do-ets-reading-test/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://YCstudent.github.io/hugo-dev/en/p/how-to-do-ets-reading-test/"
+                />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/post/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/post/</loc>
     <lastmod>2024-11-07T23:10:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/post/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://YCstudent.github.io/hugo-dev/post/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://YCstudent.github.io/hugo-dev/en/post/"
+                />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/tags/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/tags/</loc>
     <lastmod>2024-11-07T23:10:11+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/tags/"
+                href="https://YCstudent.github.io/hugo-dev/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://YCstudent.github.io/hugo-dev/tags/"
+                href="https://YCstudent.github.io/hugo-dev/en/tags/"
                 />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/categories/tips-for-solving-problems/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/categories/tips-for-solving-problems/</loc>
     <lastmod>2024-11-07T23:10:11+08:00</lastmod>
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/archives/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/archives/</loc>
     <lastmod>2024-11-01T23:01:57+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/archives/"
+                href="https://YCstudent.github.io/hugo-dev/archives/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://YCstudent.github.io/hugo-dev/archives/"
+                href="https://YCstudent.github.io/hugo-dev/en/archives/"
                 />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/page/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/page/</loc>
     <lastmod>2024-11-06T11:47:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/page/"
+                href="https://YCstudent.github.io/hugo-dev/page/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://YCstudent.github.io/hugo-dev/page/"
+                href="https://YCstudent.github.io/hugo-dev/en/page/"
                 />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/</loc>
     <lastmod>2024-11-02T01:10:53+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://YCstudent.github.io/hugo-dev/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://YCstudent.github.io/hugo-dev/en/"
+                />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/about/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/about/</loc>
     <lastmod>2024-11-04T01:06:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
                 href="https://YCstudent.github.io/hugo-dev/about/"
                 />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://YCstudent.github.io/hugo-dev/en/about/"
+                />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/announcement/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/announcement/</loc>
     <lastmod>2024-11-04T01:06:46+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/announcement/"
+                href="https://YCstudent.github.io/hugo-dev/announcement/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://YCstudent.github.io/hugo-dev/announcement/"
+                href="https://YCstudent.github.io/hugo-dev/en/announcement/"
                 />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/links/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/links/</loc>
     <lastmod>2024-11-06T11:47:59+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/%E9%93%BE%E6%8E%A5/"
+                href="https://YCstudent.github.io/hugo-dev/%E9%93%BE%E6%8E%A5/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://YCstudent.github.io/hugo-dev/links/"
+                href="https://YCstudent.github.io/hugo-dev/en/links/"
                 />
   </url><url>
-    <loc>https://YCstudent.github.io/hugo-dev/search/</loc>
+    <loc>https://YCstudent.github.io/hugo-dev/en/search/</loc>
     <lastmod>2024-11-02T09:25:19+08:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="https://YCstudent.github.io/hugo-dev/zh-cn/search/"
+                href="https://YCstudent.github.io/hugo-dev/search/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://YCstudent.github.io/hugo-dev/search/"
+                href="https://YCstudent.github.io/hugo-dev/en/search/"
                 />
   </url>
 </urlset>
