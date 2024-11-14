@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>Tips for Solving Problems on JHCx330-Jason</title>
-        <link>https://YCstudent.github.io/hugo-dev/en/categories/tips-for-solving-problems/</link>
-        <description>Recent content in Tips for Solving Problems on JHCx330-Jason</description>
+        <title>ETS on JHCx330-蒋金恒</title>
+        <link>https://YCstudent.github.io/hugo-dev/categories/ets/</link>
+        <description>Recent content in ETS on JHCx330-蒋金恒</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en</language>
+        <language>zh-cn</language>
         <copyright>JHCx330</copyright>
-        <lastBuildDate>Thu, 07 Nov 2024 23:10:11 +0800</lastBuildDate><atom:link href="https://YCstudent.github.io/hugo-dev/en/categories/tips-for-solving-problems/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 14 Nov 2024 23:07:56 +0800</lastBuildDate><atom:link href="https://YCstudent.github.io/hugo-dev/categories/ets/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>How to do ETS Reading Test</title>
-        <link>https://YCstudent.github.io/hugo-dev/en/p/how-to-do-ets-reading-test/</link>
+        <link>https://YCstudent.github.io/hugo-dev/p/how-to-do-ets-reading-test/</link>
         <pubDate>Mon, 04 Nov 2024 15:40:39 +0800</pubDate>
         
-        <guid>https://YCstudent.github.io/hugo-dev/en/p/how-to-do-ets-reading-test/</guid>
+        <guid>https://YCstudent.github.io/hugo-dev/p/how-to-do-ets-reading-test/</guid>
         <description>&lt;h1 id=&#34;written-text&#34;&gt;Written text
 &lt;/h1&gt;&lt;h2 id=&#34;1-vocabulary-explanation&#34;&gt;1. Vocabulary Explanation
 &lt;/h2&gt;&lt;h3 id=&#34;problem-solving-approach&#34;&gt;Problem-Solving Approach
