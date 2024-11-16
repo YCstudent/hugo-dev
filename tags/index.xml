@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>JHCx330</copyright>
-        <lastBuildDate>Thu, 14 Nov 2024 15:13:21 +0000</lastBuildDate><atom:link href="https://YCstudent.github.io/hugo-dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 16 Nov 2024 16:23:59 +0000</lastBuildDate><atom:link href="https://YCstudent.github.io/hugo-dev/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>并查集</title>
+        <link>https://YCstudent.github.io/hugo-dev/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/</link>
+        <pubDate>Sat, 16 Nov 2024 22:38:30 +0800</pubDate>
+        
+        <guid>https://YCstudent.github.io/hugo-dev/tags/%E5%B9%B6%E6%9F%A5%E9%9B%86/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>离散化</title>
         <link>https://YCstudent.github.io/hugo-dev/tags/%E7%A6%BB%E6%95%A3%E5%8C%96/</link>
         <pubDate>Tue, 12 Nov 2024 14:29:30 +0800</pubDate>
